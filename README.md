@@ -31,3 +31,6 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+## npm install 
+it is a command used in Node.js and JavaScript projects to install packages and dependencies from the Node Package Manager (npm) registry. To make sure your project can be easily replicated by others, the dependencies you've installed are typically listed in a package.json file. When you share your project with others, they can simply run npm install based on the package.json file to automatically install all required dependencies..
