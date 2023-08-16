@@ -1,4 +1,8 @@
 # ROCK PAPPER SCISSOR
+
+Welcome to my project! [Check out the website](https://bucolic-beijinho-879289.netlify.app/) to see it in action
+
+
 Rock-paper-scissors is a simple hand game played between two participants, in this case, a user and a computer. Each player simultaneously forms one of three shapes with their hand: rock, paper, or scissors. The outcome is determined by the rules:
 
 - Rock crushes scissors (rock wins)
